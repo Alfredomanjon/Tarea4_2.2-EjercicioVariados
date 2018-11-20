@@ -26,5 +26,7 @@ public class Ejercicio01 {
 			System.out.println("Division: " + division);
 			
 		}
+		sc.close();
+		sc1.close();
 	}
 }

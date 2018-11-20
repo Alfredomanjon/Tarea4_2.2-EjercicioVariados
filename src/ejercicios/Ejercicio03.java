@@ -18,6 +18,7 @@ public class Ejercicio03 {
 		}else if (numero > 0) {
 			System.out.println("El numero tiene 1 dígitos");
 		}
+		sc.close();
 			
 		
 	}

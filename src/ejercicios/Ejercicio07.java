@@ -17,5 +17,6 @@ public class Ejercicio07 {
 		}else if(porcentaje >= 90) {
 			System.out.println("Nivel maximo");
 		}
+		sc.close();
 	}
 }
