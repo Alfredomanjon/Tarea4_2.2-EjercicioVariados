@@ -2,7 +2,7 @@ package ejercicios;
 
 import java.util.Scanner;
 
-public class Ejercicio5 {
+public class Ejercicio05 {
 	public static void main(String[] args) {
 		int numero=0;
 		System.out.print("Introduce un numero :");

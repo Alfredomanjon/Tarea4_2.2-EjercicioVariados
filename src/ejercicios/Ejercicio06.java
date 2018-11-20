@@ -2,7 +2,7 @@ package ejercicios;
 
 import java.util.Scanner;
 
-public class Ejercicio6 {
+public class Ejercicio06 {
 	public static void main(String[] args) {
 		int numero;
 		System.out.print("Introduce un numero entre 1-99:");
