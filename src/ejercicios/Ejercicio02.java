@@ -7,13 +7,13 @@ public class Ejercicio02 {
 		int nota1 = 0;
 		int nota2 = 0;
 		int nota3 = 0;
-		System.out.print("Introduce una direccion de email:");
+		System.out.print("Primera nota:");
 		Scanner sc = new Scanner(System.in);
 		nota1 = sc.nextInt();
-		System.out.print("Introduce una direccion de email:");
+		System.out.print("Segunda nota:");
 		Scanner sc1 = new Scanner(System.in);
 		nota2 = sc.nextInt();
-		System.out.print("Introduce una direccion de email:");
+		System.out.print("Tercera nota:");
 		Scanner sc2 = new Scanner(System.in);
 		nota3 = sc.nextInt();
 		int promedio = (nota1 + nota2 + nota3)/3;
